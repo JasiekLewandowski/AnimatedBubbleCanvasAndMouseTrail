@@ -21,7 +21,7 @@ This project contains custom background animation and mouse trail effect for web
 
 #### Link
 To open project inside your browser, click on the link below:   
-https://jasieklewandowski.github.io/SpaceMouseTrail/
+https://jasieklewandowski.github.io/AnimatedBubbleCanvasAndMouseTrail/
  
 #### Files
 To open a project on your computer:
