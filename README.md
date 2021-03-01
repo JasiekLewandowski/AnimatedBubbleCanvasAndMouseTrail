@@ -17,7 +17,6 @@ This project contains custom background animation and mouse trail effect for web
   
   
 # How to open
-!The effect works only in desktop version of browsers!
 
 #### Link
 To open project inside your browser, click on the link below:   
