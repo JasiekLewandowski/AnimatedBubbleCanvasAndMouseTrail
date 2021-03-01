@@ -13,7 +13,7 @@ This project contains custom background animation and mouse trail effect for web
   
 ### Mouse Trail Effect:  
   
-![fullimage](/readme-pictures/mouse_trail_3.png)
+![fullimage](/readme-pictures/mouse_trail_3.jpg)
   
   
 # How to open
